@@ -1,0 +1,12 @@
+[
+	{
+		"background": {
+			"isWallpaper":true,
+			"wallpaperPath":"d1:Usr/root/Share/Wallpapers/default2.tga",
+			"wallpaperFit":1,
+			"solidColor":"1B1B1B",
+			"isClock":true,
+			"clockFontPath":"tesla.sfn"
+		}
+	}
+]

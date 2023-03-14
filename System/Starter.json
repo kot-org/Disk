@@ -1,6 +1,6 @@
 [
     {"file":"Programs/Drivers/Orb/Orb.elf", "priviledge":1},
-    {"file":"Programs/Drivers/Pcspk/Pcspk.elf", "priviledge":1},
+    {"file":"Programs/Drivers/Hda/Hda.elf", "priviledge":1},
     {"file":"Programs/Drivers/Ps2/Ps2.elf", "priviledge":1},
     {"file":"Programs/Drivers/E1000/E1000.elf", "priviledge":1},
     {"file":"Programs/Services/Hid/Hid.elf", "priviledge":2},

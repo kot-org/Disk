@@ -3,7 +3,7 @@
 		"desktop" : {
 			"background": {
 				"isWallpaper":true,
-				"wallpaperPath":"d1:Kot/Wallpapers/default0.tga",
+				"wallpaperPath":"d1:Usr/root/Share/Wallpapers/default2.tga",
 				"wallpaperFit":1,
 				"solidColor":"1B1B1B",
 				"isClock":true,
@@ -13,7 +13,6 @@
 		"taskbar" : {
 			"style" : {
 				"height" : 40,
-				"isExtended": true,
 				"iconSize" : 40,
 				"solidColor" : "1B1B1B"
 			},

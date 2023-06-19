@@ -1,13 +1,10 @@
 [
-    {"file":"Programs/Drivers/Orb/Orb.elf", "priviledge":1},
-    {"file":"Programs/Drivers/Hda/Hda.elf", "priviledge":1},
-    {"file":"Programs/Drivers/Ps2/Ps2.elf", "priviledge":1},
-    {"file":"Programs/Drivers/E1000/E1000.elf", "priviledge":1},
-    {"file":"Programs/Services/Hid/Hid.elf", "priviledge":2},
-    {"file":"Programs/Services/Audio/Audio.elf", "priviledge":2},
-    {"file":"Programs/Services/Shell/Shell.elf", "priviledge":3},
-    {"file":"Programs/Apps/Lua/Lua.elf", "priviledge":3},
-    {"file":"Programs/Apps/Test/Test.elf", "priviledge":3},
-    {"file":"Programs/Apps/Calculator/Calculator.elf", "priviledge":3},
-    {"file":"Programs/Apps/Explorer/Explorer.elf", "priviledge":3}
+    {"file":"Bin/hda", "flags":1, "priviledge":1},
+    {"file":"Bin/hid", "flags":1, "priviledge":2},
+    {"file":"Bin/ps2", "flags":1, "priviledge":1},
+    {"file":"Bin/e1000", "flags":1, "priviledge":1},
+    {"file":"Bin/audio", "flags":1, "priviledge":2},
+    {"file":"Bin/terminal", "flags":1, "priviledge":2},
+    {"file":"Bin/orb", "flags":1, "priviledge":1},
+    {"file":"Bin/shell", "flags":0, "priviledge":3}
 ]

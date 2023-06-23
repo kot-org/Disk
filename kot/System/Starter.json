@@ -1,10 +1,10 @@
 [
-    {"file":"Bin/hda", "flags":1, "priviledge":1},
-    {"file":"Bin/hid", "flags":1, "priviledge":2},
-    {"file":"Bin/ps2", "flags":1, "priviledge":1},
-    {"file":"Bin/e1000", "flags":1, "priviledge":1},
-    {"file":"Bin/audio", "flags":1, "priviledge":2},
-    {"file":"Bin/terminal", "flags":1, "priviledge":2},
-    {"file":"Bin/orb", "flags":1, "priviledge":1},
-    {"file":"Bin/shell", "flags":0, "priviledge":3}
+    {"file":"bin/hda", "flags":1, "priviledge":1},
+    {"file":"bin/hid", "flags":1, "priviledge":2},
+    {"file":"bin/ps2", "flags":1, "priviledge":1},
+    {"file":"bin/e1000", "flags":1, "priviledge":1},
+    {"file":"bin/audio", "flags":1, "priviledge":2},
+    {"file":"bin/terminal", "flags":1, "priviledge":2},
+    {"file":"bin/orb", "flags":1, "priviledge":1},
+    {"file":"bin/shell", "flags":0, "priviledge":3}
 ]

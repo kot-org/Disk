@@ -3,7 +3,7 @@
 		"desktop" : {
 			"background": {
 				"isWallpaper": true,
-				"wallpaperPath": "d1:Kot/Wallpapers/default0.tga",
+				"wallpaperPath": "d1:kot/Wallpapers/default0.tga",
 				"wallpaperFit": 1,
 				"solidColor": "1B1B1B",
 				"isClock": true,

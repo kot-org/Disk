@@ -6,5 +6,5 @@
     {"file":"bin/audio", "flags":1, "priviledge":2},
     {"file":"bin/terminal", "flags":1, "priviledge":2},
     {"file":"bin/orb", "flags":1, "priviledge":1},
-    {"file":"bin/shell", "flags":0, "priviledge":3}
+    {"file":"usr/bin/shell", "flags":0, "priviledge":3}
 ]

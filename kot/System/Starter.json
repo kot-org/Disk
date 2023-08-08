@@ -5,5 +5,5 @@
     {"file":"bin/e1000", "flags":1, "priviledge":1},
     {"file":"bin/audio", "flags":1, "priviledge":2},
     {"file":"bin/kterm", "flags":1, "priviledge":1},
-    {"file":"usr/bin/shell", "flags":0, "priviledge":3}
+    {"file":"usr/bin/bash", "flags":0, "priviledge":3}
 ]
